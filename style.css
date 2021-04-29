@@ -1,0 +1,61 @@
+.animals{
+display:flex ;
+justify-content: space-between;
+}
+
+.Objects{
+display: flex;
+justify-content: center;
+}
+
+.camel{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(25,25,100);
+    
+}
+
+
+.chameleon{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(100,20,20);
+}
+
+.pigeon{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(20,100,20);
+}
+
+
+.panda{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(200,40,40);
+}
+
+
+.flying-cicada{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(40,40,200);
+}
+
+.teddy-bear{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(40,200,40);
+}
+
+
+body{
+    background-image: url("oragami.jpg");
+}
+
+
+
+
+
+
+
